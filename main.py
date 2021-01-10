@@ -1,8 +1,5 @@
 from PIL import Image
-import itertools
-import time
 import colorsys
-import numpy as np
 import random
 import json
 import tweepy
